@@ -2,11 +2,10 @@
   "error": false,
   "Data":{
       "app_id": "123456789",
-      "AD_PRIORITY": "f",
+      "ad_priority": "f",
 		  "server_inter_count": 1,
 		  "server_back_count": 1,
 		  "is_splash_app_open": false,
-		  "back_ads": false,
 		  "back_ads": false,
 		  "qureka_ad_link": "",
 		  "policy_link": "",
