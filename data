@@ -1,6 +1,29 @@
 {
   "error": false,
   "Data":{
-      "app_id": "123456789"
+      "app_id": "123456789",
+      "AD_PRIORITY": "f",
+		  "server_inter_count": 1,
+		  "server_back_count": 1,
+		  "is_splash_app_open": false,
+		  "back_ads": false,
+		  "back_ads": false,
+		  "qureka_ad_link": "",
+		  "policy_link": "",
+		  "mini_native_ad": false,
+		  "large_native_ad": false,
+		  "qureka_on_off": false,
+		  "ads_on_off": false,
+		  "admob_inter_id": "",
+		  "admob_native_id": "",
+		  "admob_app_open_id": "",
+		  "fb_inter_id": "",
+		  "fb_native_id": "",
+		  "native_background_color": "",
+		  "native_body_headline_text_color": "",
+		  "vpn_on_off": false,
+		  "vpn_country_code": "",
+		  "vpn_url": "",
+		  "vpn_id": ""
     }
 }
