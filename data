@@ -2,7 +2,7 @@
   "error": false,
   "Data":{
       "app_id": "123456789",
-      "ad_priority": "f",
+      "ad_priority": "g",
 		  "server_inter_count": 1,
 		  "server_back_count": 1,
 		  "is_splash_app_open": false,
@@ -16,7 +16,7 @@
 		  "admob_inter_id": "ca-app-pub-3940256099942544/1033173712",
 		  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 		  "admob_app_open_id": "",
-		  "fb_inter_id": "",
+		  "fb_inter_id": "IMG_16_9_APP_INSTALL",
 		  "fb_native_id": "",
 		  "native_background_color": "",
 		  "native_body_headline_text_color": "",
